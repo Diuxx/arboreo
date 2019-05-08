@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?eclipse version="3.0"?>
+
+<!--
+-->
+
+<plugin>
+
+   <extension point="org.eclipse.ui.newWizards">
+      <!-- @generated arboreo -->
+      <category
+            id="org.eclipse.emf.ecore.Wizard.category.ID"
+            name="%_UI_Wizard_category"/>
+      <wizard
+            id="lpdql.arboreo.presentation.ArboreoModelWizardID"
+            name="%_UI_ArboreoModelWizard_label"
+            class="lpdql.arboreo.presentation.ArboreoModelWizard"
+            category="org.eclipse.emf.ecore.Wizard.category.ID"
+            icon="icons/full/obj16/ArboreoModelFile.gif">
+         <description>%_UI_ArboreoModelWizard_description</description>
+         <selection class="org.eclipse.core.resources.IResource"/>
+      </wizard>
+   </extension>
+
+   <extension point="org.eclipse.ui.editors">
+      <!-- @generated arboreo -->
+      <editor
+            id="lpdql.arboreo.presentation.ArboreoEditorID"
+            name="%_UI_ArboreoEditor_label"
+            icon="icons/full/obj16/ArboreoModelFile.gif"
+            extensions="arboreo"
+            class="lpdql.arboreo.presentation.ArboreoEditor"
+            contributorClass="lpdql.arboreo.presentation.ArboreoActionBarContributor">
+      </editor>
+   </extension>
+
+</plugin>

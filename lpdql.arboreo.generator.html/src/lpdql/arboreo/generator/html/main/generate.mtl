@@ -1,0 +1,48 @@
+[comment encoding = UTF-8 /]
+[module generate('http://www.example.org/arboreo')]
+
+[template public generateElement(aSite : Site)]
+[comment @main/]
+[file (aSite.name + '.html', false, 'UTF-8')]
+<html>
+	<head>
+	</head>
+	<body>
+		<h1>aab Bienvenu sur la map de <i style="color: red">[aSite.name/].fr</i></h1>
+		<h4>site mapping : </h4>
+
+		<ul>
+			[for (unePage : Page | aSite.pages)]
+				
+				<li>[getgetOrigin(unePage, aSite, '0')/]</li>				
+
+			[/for]
+		</ul>
+	</body>
+</html>
+[/file]
+[/template]
+
+[template public getgetOrigin(p : Page, site : Site, isFirst : String)]
+	[for (unLien : Lien | site.liens)]
+		[if (unLien.page_destination = p)]
+
+			[if (unLien.page_origine.name <> 'home')]
+				
+				[getgetOrigin(unLien.page_origine, site, '1')/]
+				
+			[/if]
+			[if (unLien.page_origine.name <> p.name)]
+
+				/[unLien.page_origine.name/]/[p.name/] [if (isFirst = '1')]->[/if]
+			[else]
+			
+				/[p.name/]
+
+			[/if]
+		[/if]	
+	[/for]
+[/template]
+
+
+

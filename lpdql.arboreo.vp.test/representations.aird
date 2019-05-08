@@ -1,0 +1,425 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xmi:XMI xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:arboreo="http://www.example.org/arboreo" xmlns:description="http://www.eclipse.org/sirius/description/1.1.0" xmlns:description_1="http://www.eclipse.org/sirius/diagram/description/1.1.0" xmlns:diagram="http://www.eclipse.org/sirius/diagram/1.1.0" xmlns:notation="http://www.eclipse.org/gmf/runtime/1.0.2/notation" xmlns:style="http://www.eclipse.org/sirius/diagram/description/style/1.1.0" xmlns:viewpoint="http://www.eclipse.org/sirius/1.1.0" xsi:schemaLocation="http://www.eclipse.org/sirius/description/1.1.0 http://www.eclipse.org/sirius/1.1.0#//description http://www.eclipse.org/sirius/diagram/description/1.1.0 http://www.eclipse.org/sirius/diagram/1.1.0#//description http://www.eclipse.org/sirius/diagram/description/style/1.1.0 http://www.eclipse.org/sirius/diagram/1.1.0#//description/style">
+  <viewpoint:DAnalysis uid="_wI9YgFMREemr8pVth8Bo4w" selectedViews="_ZH9FkFMSEemr8pVth8Bo4w" version="14.1.0.201810161215">
+    <semanticResources>Site.arboreo</semanticResources>
+    <ownedViews xmi:type="viewpoint:DView" uid="_ZH9FkFMSEemr8pVth8Bo4w">
+      <viewpoint xmi:type="description:Viewpoint" href="platform:/resource/lpdql.arboreo.vp/description/vp.odesign#//@ownedViewpoints[name='arboreo_vp']"/>
+      <ownedRepresentationDescriptors xmi:type="viewpoint:DRepresentationDescriptor" uid="_XSNnwFMZEemr8pVth8Bo4w" name="arboreo test.com" repPath="#_XSFE4FMZEemr8pVth8Bo4w">
+        <description xmi:type="description_1:DiagramDescription" href="platform:/resource/lpdql.arboreo.vp/description/vp.odesign#//@ownedViewpoints[name='arboreo_vp']/@ownedRepresentations[name='arboreo%20Diagram']"/>
+        <target xmi:type="arboreo:Site" href="Site.arboreo#/"/>
+      </ownedRepresentationDescriptors>
+    </ownedViews>
+  </viewpoint:DAnalysis>
+  <diagram:DSemanticDiagram uid="_XSFE4FMZEemr8pVth8Bo4w" name="arboreo test.com">
+    <ownedAnnotationEntries xmi:type="description:AnnotationEntry" uid="_XSJWXlMZEemr8pVth8Bo4w" source="DANNOTATION_CUSTOMIZATION_KEY">
+      <data xmi:type="diagram:ComputedStyleDescriptionRegistry" uid="_XSJWX1MZEemr8pVth8Bo4w"/>
+    </ownedAnnotationEntries>
+    <ownedAnnotationEntries xmi:type="description:AnnotationEntry" uid="_XSNnwVMZEemr8pVth8Bo4w" source="GMF_DIAGRAMS">
+      <data xmi:type="notation:Diagram" xmi:id="_XSNnwlMZEemr8pVth8Bo4w" type="Sirius" element="_XSFE4FMZEemr8pVth8Bo4w" measurementUnit="Pixel">
+        <children xmi:type="notation:Node" xmi:id="_XSNnxFMZEemr8pVth8Bo4w" type="2001" element="_XSHhIFMZEemr8pVth8Bo4w">
+          <children xmi:type="notation:Node" xmi:id="_XSOO0FMZEemr8pVth8Bo4w" type="5002">
+            <layoutConstraint xmi:type="notation:Location" xmi:id="_XSOO0VMZEemr8pVth8Bo4w" x="31" y="5"/>
+          </children>
+          <children xmi:type="notation:Node" xmi:id="_XSRSMVMZEemr8pVth8Bo4w" type="3017" element="_XSHhIVMZEemr8pVth8Bo4w">
+            <styles xmi:type="notation:ShapeStyle" xmi:id="_XSRSMlMZEemr8pVth8Bo4w" fontName="Segoe UI"/>
+            <layoutConstraint xmi:type="notation:Bounds" xmi:id="_XSRSM1MZEemr8pVth8Bo4w"/>
+          </children>
+          <styles xmi:type="notation:ShapeStyle" xmi:id="_XSNnxVMZEemr8pVth8Bo4w" fontName="Segoe UI" fontHeight="12"/>
+          <layoutConstraint xmi:type="notation:Bounds" xmi:id="_XSNnxlMZEemr8pVth8Bo4w" x="303" y="317" width="30" height="30"/>
+        </children>
+        <children xmi:type="notation:Node" xmi:id="_XSQEAFMZEemr8pVth8Bo4w" type="2001" element="_XSHhI1MZEemr8pVth8Bo4w">
+          <children xmi:type="notation:Node" xmi:id="_XSQEA1MZEemr8pVth8Bo4w" type="5002">
+            <layoutConstraint xmi:type="notation:Location" xmi:id="_XSQEBFMZEemr8pVth8Bo4w" x="31" y="5"/>
+          </children>
+          <children xmi:type="notation:Node" xmi:id="_XSR5MFMZEemr8pVth8Bo4w" type="3017" element="_XSHhJFMZEemr8pVth8Bo4w">
+            <styles xmi:type="notation:ShapeStyle" xmi:id="_XSR5MVMZEemr8pVth8Bo4w" fontName="Segoe UI"/>
+            <layoutConstraint xmi:type="notation:Bounds" xmi:id="_XSR5MlMZEemr8pVth8Bo4w"/>
+          </children>
+          <styles xmi:type="notation:ShapeStyle" xmi:id="_XSQEAVMZEemr8pVth8Bo4w" fontName="Segoe UI" fontHeight="12"/>
+          <layoutConstraint xmi:type="notation:Bounds" xmi:id="_XSQEAlMZEemr8pVth8Bo4w" x="216" y="227" width="30" height="30"/>
+        </children>
+        <children xmi:type="notation:Node" xmi:id="_XSQEBVMZEemr8pVth8Bo4w" type="2001" element="_XSIIMVMZEemr8pVth8Bo4w">
+          <children xmi:type="notation:Node" xmi:id="_XSQECFMZEemr8pVth8Bo4w" type="5002">
+            <layoutConstraint xmi:type="notation:Location" xmi:id="_XSQECVMZEemr8pVth8Bo4w" x="31" y="5"/>
+          </children>
+          <children xmi:type="notation:Node" xmi:id="_XSR5M1MZEemr8pVth8Bo4w" type="3017" element="_XSIIMlMZEemr8pVth8Bo4w">
+            <styles xmi:type="notation:ShapeStyle" xmi:id="_XSR5NFMZEemr8pVth8Bo4w" fontName="Segoe UI"/>
+            <layoutConstraint xmi:type="notation:Bounds" xmi:id="_XSR5NVMZEemr8pVth8Bo4w"/>
+          </children>
+          <styles xmi:type="notation:ShapeStyle" xmi:id="_XSQEBlMZEemr8pVth8Bo4w" fontName="Segoe UI" fontHeight="12"/>
+          <layoutConstraint xmi:type="notation:Bounds" xmi:id="_XSQEB1MZEemr8pVth8Bo4w" x="216" y="137" width="30" height="30"/>
+        </children>
+        <children xmi:type="notation:Node" xmi:id="_XSQrEFMZEemr8pVth8Bo4w" type="2001" element="_XSIINFMZEemr8pVth8Bo4w">
+          <children xmi:type="notation:Node" xmi:id="_XSRSIFMZEemr8pVth8Bo4w" type="5002">
+            <layoutConstraint xmi:type="notation:Location" xmi:id="_XSRSIVMZEemr8pVth8Bo4w" x="31" y="5"/>
+          </children>
+          <children xmi:type="notation:Node" xmi:id="_XSR5NlMZEemr8pVth8Bo4w" type="3017" element="_XSIINVMZEemr8pVth8Bo4w">
+            <styles xmi:type="notation:ShapeStyle" xmi:id="_XSR5N1MZEemr8pVth8Bo4w" fontName="Segoe UI"/>
+            <layoutConstraint xmi:type="notation:Bounds" xmi:id="_XSR5OFMZEemr8pVth8Bo4w"/>
+          </children>
+          <styles xmi:type="notation:ShapeStyle" xmi:id="_XSQrEVMZEemr8pVth8Bo4w" fontName="Segoe UI" fontHeight="12"/>
+          <layoutConstraint xmi:type="notation:Bounds" xmi:id="_XSQrElMZEemr8pVth8Bo4w" x="302" y="227" width="30" height="30"/>
+        </children>
+        <children xmi:type="notation:Node" xmi:id="_XSRSIlMZEemr8pVth8Bo4w" type="2001" element="_XSIIN1MZEemr8pVth8Bo4w">
+          <children xmi:type="notation:Node" xmi:id="_XSRSJVMZEemr8pVth8Bo4w" type="5002">
+            <layoutConstraint xmi:type="notation:Location" xmi:id="_XSRSJlMZEemr8pVth8Bo4w" x="31" y="5"/>
+          </children>
+          <children xmi:type="notation:Node" xmi:id="_XSSgQFMZEemr8pVth8Bo4w" type="3017" element="_XSIIOFMZEemr8pVth8Bo4w">
+            <styles xmi:type="notation:ShapeStyle" xmi:id="_XSSgQVMZEemr8pVth8Bo4w" fontName="Segoe UI"/>
+            <layoutConstraint xmi:type="notation:Bounds" xmi:id="_XSSgQlMZEemr8pVth8Bo4w"/>
+          </children>
+          <styles xmi:type="notation:ShapeStyle" xmi:id="_XSRSI1MZEemr8pVth8Bo4w" fontName="Segoe UI" fontHeight="12"/>
+          <layoutConstraint xmi:type="notation:Bounds" xmi:id="_XSRSJFMZEemr8pVth8Bo4w" x="394" y="227" width="30" height="30"/>
+        </children>
+        <children xmi:type="notation:Node" xmi:id="_XSRSJ1MZEemr8pVth8Bo4w" type="2001" element="_XSIIOlMZEemr8pVth8Bo4w">
+          <children xmi:type="notation:Node" xmi:id="_XSRSKlMZEemr8pVth8Bo4w" type="5002">
+            <layoutConstraint xmi:type="notation:Location" xmi:id="_XSRSK1MZEemr8pVth8Bo4w" x="31" y="5"/>
+          </children>
+          <children xmi:type="notation:Node" xmi:id="_XSSgQ1MZEemr8pVth8Bo4w" type="3017" element="_XSIIO1MZEemr8pVth8Bo4w">
+            <styles xmi:type="notation:ShapeStyle" xmi:id="_XSSgRFMZEemr8pVth8Bo4w" fontName="Segoe UI"/>
+            <layoutConstraint xmi:type="notation:Bounds" xmi:id="_XSSgRVMZEemr8pVth8Bo4w"/>
+          </children>
+          <styles xmi:type="notation:ShapeStyle" xmi:id="_XSRSKFMZEemr8pVth8Bo4w" fontName="Segoe UI" fontHeight="12"/>
+          <layoutConstraint xmi:type="notation:Bounds" xmi:id="_XSRSKVMZEemr8pVth8Bo4w" x="480" y="123" width="30" height="30"/>
+        </children>
+        <children xmi:type="notation:Node" xmi:id="_XSRSLFMZEemr8pVth8Bo4w" type="2001" element="_XSIIPVMZEemr8pVth8Bo4w">
+          <children xmi:type="notation:Node" xmi:id="_XSRSL1MZEemr8pVth8Bo4w" type="5002">
+            <layoutConstraint xmi:type="notation:Location" xmi:id="_XSRSMFMZEemr8pVth8Bo4w" x="31" y="5"/>
+          </children>
+          <children xmi:type="notation:Node" xmi:id="_XSSgRlMZEemr8pVth8Bo4w" type="3017" element="_XSIIPlMZEemr8pVth8Bo4w">
+            <styles xmi:type="notation:ShapeStyle" xmi:id="_XSSgR1MZEemr8pVth8Bo4w" fontName="Segoe UI"/>
+            <layoutConstraint xmi:type="notation:Bounds" xmi:id="_XSSgSFMZEemr8pVth8Bo4w"/>
+          </children>
+          <styles xmi:type="notation:ShapeStyle" xmi:id="_XSRSLVMZEemr8pVth8Bo4w" fontName="Segoe UI" fontHeight="12"/>
+          <layoutConstraint xmi:type="notation:Bounds" xmi:id="_XSRSLlMZEemr8pVth8Bo4w" x="216" y="48" width="30" height="30"/>
+        </children>
+        <children xmi:type="notation:Node" xmi:id="_jc208FVkEemORpJyenG0VQ" type="2001" element="_jcoygFVkEemORpJyenG0VQ">
+          <children xmi:type="notation:Node" xmi:id="_jc2081VkEemORpJyenG0VQ" type="5002">
+            <layoutConstraint xmi:type="notation:Location" xmi:id="_jc209FVkEemORpJyenG0VQ" x="31" y="5"/>
+          </children>
+          <children xmi:type="notation:Node" xmi:id="_jc209VVkEemORpJyenG0VQ" type="3017" element="_jcoygVVkEemORpJyenG0VQ">
+            <styles xmi:type="notation:ShapeStyle" xmi:id="_jc209lVkEemORpJyenG0VQ" fontName="Segoe UI"/>
+            <layoutConstraint xmi:type="notation:Bounds" xmi:id="_jc2091VkEemORpJyenG0VQ"/>
+          </children>
+          <styles xmi:type="notation:ShapeStyle" xmi:id="_jc208VVkEemORpJyenG0VQ" fontName="Segoe UI" fontHeight="12"/>
+          <layoutConstraint xmi:type="notation:Bounds" xmi:id="_jc208lVkEemORpJyenG0VQ" x="756" y="264" width="30" height="30"/>
+        </children>
+        <children xmi:type="notation:Node" xmi:id="_uT6r71VpEemORpJyenG0VQ" type="2001" element="_uTyI8FVpEemORpJyenG0VQ">
+          <children xmi:type="notation:Node" xmi:id="_uT-WMlVpEemORpJyenG0VQ" type="5002">
+            <layoutConstraint xmi:type="notation:Location" xmi:id="_uT-WM1VpEemORpJyenG0VQ" x="31" y="5"/>
+          </children>
+          <children xmi:type="notation:Node" xmi:id="_uT-WNFVpEemORpJyenG0VQ" type="3017" element="_uTyI8VVpEemORpJyenG0VQ">
+            <styles xmi:type="notation:ShapeStyle" xmi:id="_uT-WNVVpEemORpJyenG0VQ" fontName="Segoe UI"/>
+            <layoutConstraint xmi:type="notation:Bounds" xmi:id="_uT-WNlVpEemORpJyenG0VQ"/>
+          </children>
+          <styles xmi:type="notation:ShapeStyle" xmi:id="_uT-WMFVpEemORpJyenG0VQ" fontName="Segoe UI" fontHeight="12"/>
+          <layoutConstraint xmi:type="notation:Bounds" xmi:id="_uT-WMVVpEemORpJyenG0VQ" x="768" y="48" width="30" height="30"/>
+        </children>
+        <styles xmi:type="notation:DiagramStyle" xmi:id="_XSNnw1MZEemr8pVth8Bo4w"/>
+        <edges xmi:type="notation:Edge" xmi:id="_XSSgSVMZEemr8pVth8Bo4w" type="4001" element="_XSIvQFMZEemr8pVth8Bo4w" source="_XSNnxFMZEemr8pVth8Bo4w" target="_XSQEAFMZEemr8pVth8Bo4w">
+          <children xmi:type="notation:Node" xmi:id="_XSTHUFMZEemr8pVth8Bo4w" type="6001">
+            <layoutConstraint xmi:type="notation:Bounds" xmi:id="_XSTHUVMZEemr8pVth8Bo4w" y="-10"/>
+          </children>
+          <children xmi:type="notation:Node" xmi:id="_XSTHUlMZEemr8pVth8Bo4w" type="6002">
+            <layoutConstraint xmi:type="notation:Bounds" xmi:id="_XSTHU1MZEemr8pVth8Bo4w" y="10"/>
+          </children>
+          <children xmi:type="notation:Node" xmi:id="_XSTHVFMZEemr8pVth8Bo4w" type="6003">
+            <layoutConstraint xmi:type="notation:Bounds" xmi:id="_XSTHVVMZEemr8pVth8Bo4w" y="10"/>
+          </children>
+          <styles xmi:type="notation:ConnectorStyle" xmi:id="_XSSgSlMZEemr8pVth8Bo4w"/>
+          <styles xmi:type="notation:FontStyle" xmi:id="_XSSgS1MZEemr8pVth8Bo4w" fontName="Segoe UI" fontHeight="12"/>
+          <bendpoints xmi:type="notation:RelativeBendpoints" xmi:id="_XSSgTFMZEemr8pVth8Bo4w" points="[0, 0, 90, 60]$[-90, -60, 0, 0]"/>
+          <sourceAnchor xmi:type="notation:IdentityAnchor" xmi:id="_XSTHVlMZEemr8pVth8Bo4w" id="(0.5,0.0)"/>
+          <targetAnchor xmi:type="notation:IdentityAnchor" xmi:id="_XSTHV1MZEemr8pVth8Bo4w" id="(0.5,1.0)"/>
+        </edges>
+        <edges xmi:type="notation:Edge" xmi:id="_XSTHWFMZEemr8pVth8Bo4w" type="4001" element="_XSIvRVMZEemr8pVth8Bo4w" source="_XSQEAFMZEemr8pVth8Bo4w" target="_XSQEBVMZEemr8pVth8Bo4w">
+          <children xmi:type="notation:Node" xmi:id="_XSTHXFMZEemr8pVth8Bo4w" type="6001">
+            <layoutConstraint xmi:type="notation:Bounds" xmi:id="_XSTHXVMZEemr8pVth8Bo4w" y="-10"/>
+          </children>
+          <children xmi:type="notation:Node" xmi:id="_XSTHXlMZEemr8pVth8Bo4w" type="6002">
+            <layoutConstraint xmi:type="notation:Bounds" xmi:id="_XSTHX1MZEemr8pVth8Bo4w" y="10"/>
+          </children>
+          <children xmi:type="notation:Node" xmi:id="_XSTHYFMZEemr8pVth8Bo4w" type="6003">
+            <layoutConstraint xmi:type="notation:Bounds" xmi:id="_XSTHYVMZEemr8pVth8Bo4w" y="10"/>
+          </children>
+          <styles xmi:type="notation:ConnectorStyle" xmi:id="_XSTHWVMZEemr8pVth8Bo4w"/>
+          <styles xmi:type="notation:FontStyle" xmi:id="_XSTHWlMZEemr8pVth8Bo4w" fontName="Segoe UI" fontHeight="12"/>
+          <bendpoints xmi:type="notation:RelativeBendpoints" xmi:id="_XSTHW1MZEemr8pVth8Bo4w" points="[0, 0, 0, 60]$[0, -60, 0, 0]"/>
+          <sourceAnchor xmi:type="notation:IdentityAnchor" xmi:id="_XSTHYlMZEemr8pVth8Bo4w" id="(0.5,0.0)"/>
+          <targetAnchor xmi:type="notation:IdentityAnchor" xmi:id="_XSTHY1MZEemr8pVth8Bo4w" id="(0.5,1.0)"/>
+        </edges>
+        <edges xmi:type="notation:Edge" xmi:id="_XSTHZFMZEemr8pVth8Bo4w" type="4001" element="_XSIvSlMZEemr8pVth8Bo4w" source="_XSNnxFMZEemr8pVth8Bo4w" target="_XSQrEFMZEemr8pVth8Bo4w">
+          <children xmi:type="notation:Node" xmi:id="_XSTHaFMZEemr8pVth8Bo4w" type="6001">
+            <layoutConstraint xmi:type="notation:Bounds" xmi:id="_XSTHaVMZEemr8pVth8Bo4w" y="-10"/>
+          </children>
+          <children xmi:type="notation:Node" xmi:id="_XSTHalMZEemr8pVth8Bo4w" type="6002">
+            <layoutConstraint xmi:type="notation:Bounds" xmi:id="_XSTHa1MZEemr8pVth8Bo4w" y="10"/>
+          </children>
+          <children xmi:type="notation:Node" xmi:id="_XSTuYFMZEemr8pVth8Bo4w" type="6003">
+            <layoutConstraint xmi:type="notation:Bounds" xmi:id="_XSTuYVMZEemr8pVth8Bo4w" y="10"/>
+          </children>
+          <styles xmi:type="notation:ConnectorStyle" xmi:id="_XSTHZVMZEemr8pVth8Bo4w"/>
+          <styles xmi:type="notation:FontStyle" xmi:id="_XSTHZlMZEemr8pVth8Bo4w" fontName="Segoe UI" fontHeight="12"/>
+          <bendpoints xmi:type="notation:RelativeBendpoints" xmi:id="_XSTHZ1MZEemr8pVth8Bo4w" points="[0, 0, 0, 60]$[0, -60, 0, 0]"/>
+          <sourceAnchor xmi:type="notation:IdentityAnchor" xmi:id="_XSTuYlMZEemr8pVth8Bo4w" id="(0.5,0.0)"/>
+          <targetAnchor xmi:type="notation:IdentityAnchor" xmi:id="_XSTuY1MZEemr8pVth8Bo4w" id="(0.5,1.0)"/>
+        </edges>
+        <edges xmi:type="notation:Edge" xmi:id="_XSTuZFMZEemr8pVth8Bo4w" type="4001" element="_XSIvT1MZEemr8pVth8Bo4w" source="_XSNnxFMZEemr8pVth8Bo4w" target="_XSNnxFMZEemr8pVth8Bo4w">
+          <children xmi:type="notation:Node" xmi:id="_XSUVcFMZEemr8pVth8Bo4w" type="6001">
+            <layoutConstraint xmi:type="notation:Bounds" xmi:id="_XSUVcVMZEemr8pVth8Bo4w" y="-10"/>
+          </children>
+          <children xmi:type="notation:Node" xmi:id="_XSU8gFMZEemr8pVth8Bo4w" type="6002">
+            <layoutConstraint xmi:type="notation:Bounds" xmi:id="_XSU8gVMZEemr8pVth8Bo4w" y="10"/>
+          </children>
+          <children xmi:type="notation:Node" xmi:id="_XSU8glMZEemr8pVth8Bo4w" type="6003">
+            <layoutConstraint xmi:type="notation:Bounds" xmi:id="_XSU8g1MZEemr8pVth8Bo4w" y="10"/>
+          </children>
+          <styles xmi:type="notation:ConnectorStyle" xmi:id="_XSTuZVMZEemr8pVth8Bo4w"/>
+          <styles xmi:type="notation:FontStyle" xmi:id="_XSTuZlMZEemr8pVth8Bo4w" fontName="Segoe UI" fontHeight="12"/>
+          <bendpoints xmi:type="notation:RelativeBendpoints" xmi:id="_XSTuZ1MZEemr8pVth8Bo4w" points="[0, 0, 0, 0]$[0, 0, 0, 0]"/>
+          <sourceAnchor xmi:type="notation:IdentityAnchor" xmi:id="_XSU8hFMZEemr8pVth8Bo4w" id="(0.5,0.5)"/>
+          <targetAnchor xmi:type="notation:IdentityAnchor" xmi:id="_XSU8hVMZEemr8pVth8Bo4w" id="(0.5,0.5)"/>
+        </edges>
+        <edges xmi:type="notation:Edge" xmi:id="_XSU8hlMZEemr8pVth8Bo4w" type="4001" element="_XSIvVFMZEemr8pVth8Bo4w" source="_XSNnxFMZEemr8pVth8Bo4w" target="_XSRSIlMZEemr8pVth8Bo4w">
+          <children xmi:type="notation:Node" xmi:id="_XSVjkFMZEemr8pVth8Bo4w" type="6001">
+            <layoutConstraint xmi:type="notation:Bounds" xmi:id="_XSVjkVMZEemr8pVth8Bo4w" y="-10"/>
+          </children>
+          <children xmi:type="notation:Node" xmi:id="_XSVjklMZEemr8pVth8Bo4w" type="6002">
+            <layoutConstraint xmi:type="notation:Bounds" xmi:id="_XSVjk1MZEemr8pVth8Bo4w" y="10"/>
+          </children>
+          <children xmi:type="notation:Node" xmi:id="_XSVjlFMZEemr8pVth8Bo4w" type="6003">
+            <layoutConstraint xmi:type="notation:Bounds" xmi:id="_XSVjlVMZEemr8pVth8Bo4w" y="10"/>
+          </children>
+          <styles xmi:type="notation:ConnectorStyle" xmi:id="_XSU8h1MZEemr8pVth8Bo4w"/>
+          <styles xmi:type="notation:FontStyle" xmi:id="_XSU8iFMZEemr8pVth8Bo4w" fontName="Segoe UI" fontHeight="12"/>
+          <bendpoints xmi:type="notation:RelativeBendpoints" xmi:id="_XSU8iVMZEemr8pVth8Bo4w" points="[0, 0, -90, 60]$[90, -60, 0, 0]"/>
+          <sourceAnchor xmi:type="notation:IdentityAnchor" xmi:id="_XSVjllMZEemr8pVth8Bo4w" id="(0.5,0.0)"/>
+          <targetAnchor xmi:type="notation:IdentityAnchor" xmi:id="_XSVjl1MZEemr8pVth8Bo4w" id="(0.5,1.0)"/>
+        </edges>
+        <edges xmi:type="notation:Edge" xmi:id="_XSVjmFMZEemr8pVth8Bo4w" type="4001" element="_XSJWVFMZEemr8pVth8Bo4w" source="_XSRSIlMZEemr8pVth8Bo4w" target="_XSRSJ1MZEemr8pVth8Bo4w">
+          <children xmi:type="notation:Node" xmi:id="_XSWKoFMZEemr8pVth8Bo4w" type="6001">
+            <layoutConstraint xmi:type="notation:Bounds" xmi:id="_XSWKoVMZEemr8pVth8Bo4w" x="-8" y="-7"/>
+          </children>
+          <children xmi:type="notation:Node" xmi:id="_XSWKolMZEemr8pVth8Bo4w" type="6002">
+            <layoutConstraint xmi:type="notation:Bounds" xmi:id="_XSWKo1MZEemr8pVth8Bo4w" x="7" y="5"/>
+          </children>
+          <children xmi:type="notation:Node" xmi:id="_XSWKpFMZEemr8pVth8Bo4w" type="6003">
+            <layoutConstraint xmi:type="notation:Bounds" xmi:id="_XSWKpVMZEemr8pVth8Bo4w" x="8" y="7"/>
+          </children>
+          <styles xmi:type="notation:ConnectorStyle" xmi:id="_XSVjmVMZEemr8pVth8Bo4w"/>
+          <styles xmi:type="notation:FontStyle" xmi:id="_XSVjmlMZEemr8pVth8Bo4w" fontName="Segoe UI" fontHeight="12"/>
+          <bendpoints xmi:type="notation:RelativeBendpoints" xmi:id="_XSVjm1MZEemr8pVth8Bo4w" points="[0, 0, -86, 74]$[86, -74, 0, 0]"/>
+          <sourceAnchor xmi:type="notation:IdentityAnchor" xmi:id="_XSWKplMZEemr8pVth8Bo4w" id="(0.5,0.0)"/>
+          <targetAnchor xmi:type="notation:IdentityAnchor" xmi:id="_XSWKp1MZEemr8pVth8Bo4w" id="(0.5,1.0)"/>
+        </edges>
+        <edges xmi:type="notation:Edge" xmi:id="_XSWKqFMZEemr8pVth8Bo4w" type="4001" element="_XSJWWVMZEemr8pVth8Bo4w" source="_XSQEBVMZEemr8pVth8Bo4w" target="_XSRSLFMZEemr8pVth8Bo4w">
+          <children xmi:type="notation:Node" xmi:id="_XSWxsFMZEemr8pVth8Bo4w" type="6001">
+            <layoutConstraint xmi:type="notation:Bounds" xmi:id="_XSWxsVMZEemr8pVth8Bo4w" y="-10"/>
+          </children>
+          <children xmi:type="notation:Node" xmi:id="_XSWxslMZEemr8pVth8Bo4w" type="6002">
+            <layoutConstraint xmi:type="notation:Bounds" xmi:id="_XSWxs1MZEemr8pVth8Bo4w" y="10"/>
+          </children>
+          <children xmi:type="notation:Node" xmi:id="_XSWxtFMZEemr8pVth8Bo4w" type="6003">
+            <layoutConstraint xmi:type="notation:Bounds" xmi:id="_XSWxtVMZEemr8pVth8Bo4w" y="10"/>
+          </children>
+          <styles xmi:type="notation:ConnectorStyle" xmi:id="_XSWKqVMZEemr8pVth8Bo4w"/>
+          <styles xmi:type="notation:FontStyle" xmi:id="_XSWKqlMZEemr8pVth8Bo4w" fontName="Segoe UI" fontHeight="12"/>
+          <bendpoints xmi:type="notation:RelativeBendpoints" xmi:id="_XSWKq1MZEemr8pVth8Bo4w" points="[0, 0, 0, 60]$[0, -60, 0, 0]"/>
+          <sourceAnchor xmi:type="notation:IdentityAnchor" xmi:id="_XSWxtlMZEemr8pVth8Bo4w" id="(0.5,0.0)"/>
+          <targetAnchor xmi:type="notation:IdentityAnchor" xmi:id="_XSWxt1MZEemr8pVth8Bo4w" id="(0.5,1.0)"/>
+        </edges>
+        <edges xmi:type="notation:Edge" xmi:id="_kcA9IFVqEemORpJyenG0VQ" type="4001" element="_kbxFnFVqEemORpJyenG0VQ" source="_uT6r71VpEemORpJyenG0VQ" target="_jc208FVkEemORpJyenG0VQ">
+          <children xmi:type="notation:Node" xmi:id="_kcBkMFVqEemORpJyenG0VQ" type="6001">
+            <layoutConstraint xmi:type="notation:Bounds" xmi:id="_kcBkMVVqEemORpJyenG0VQ" x="3"/>
+          </children>
+          <children xmi:type="notation:Node" xmi:id="_kcBkMlVqEemORpJyenG0VQ" type="6002">
+            <layoutConstraint xmi:type="notation:Bounds" xmi:id="_kcBkM1VqEemORpJyenG0VQ" x="-4" y="3"/>
+          </children>
+          <children xmi:type="notation:Node" xmi:id="_kcBkNFVqEemORpJyenG0VQ" type="6003">
+            <layoutConstraint xmi:type="notation:Bounds" xmi:id="_kcBkNVVqEemORpJyenG0VQ" x="-4" y="4"/>
+          </children>
+          <styles xmi:type="notation:ConnectorStyle" xmi:id="_kcA9IVVqEemORpJyenG0VQ"/>
+          <styles xmi:type="notation:FontStyle" xmi:id="_kcA9IlVqEemORpJyenG0VQ" fontName="Segoe UI" fontHeight="12"/>
+          <bendpoints xmi:type="notation:RelativeBendpoints" xmi:id="_kcA9I1VqEemORpJyenG0VQ" points="[0, 0, 12, -186]$[-12, 186, 0, 0]"/>
+          <sourceAnchor xmi:type="notation:IdentityAnchor" xmi:id="_kcBkNlVqEemORpJyenG0VQ" id="(0.8,1.0)"/>
+          <targetAnchor xmi:type="notation:IdentityAnchor" xmi:id="_kcBkN1VqEemORpJyenG0VQ" id="(0.8,0.0)"/>
+        </edges>
+      </data>
+    </ownedAnnotationEntries>
+    <ownedDiagramElements xmi:type="diagram:DNode" uid="_XSHhIFMZEemr8pVth8Bo4w" name="home" outgoingEdges="_XSIvQFMZEemr8pVth8Bo4w _XSIvSlMZEemr8pVth8Bo4w _XSIvT1MZEemr8pVth8Bo4w _XSIvVFMZEemr8pVth8Bo4w" incomingEdges="_XSIvT1MZEemr8pVth8Bo4w" width="3" height="3" resizeKind="NSEW">
+      <target xmi:type="arboreo:Page" href="Site.arboreo#//@pages.0"/>
+      <semanticElements xmi:type="arboreo:Page" href="Site.arboreo#//@pages.0"/>
+      <arrangeConstraints>KEEP_LOCATION</arrangeConstraints>
+      <arrangeConstraints>KEEP_SIZE</arrangeConstraints>
+      <arrangeConstraints>KEEP_RATIO</arrangeConstraints>
+      <ownedStyle xmi:type="diagram:Lozenge" uid="_XSHhIVMZEemr8pVth8Bo4w" labelSize="12" labelAlignment="LEFT" borderColor="114,159,207" color="114,159,207">
+        <description xmi:type="style:LozengeNodeDescription" href="platform:/resource/lpdql.arboreo.vp/description/vp.odesign#//@ownedViewpoints[name='arboreo_vp']/@ownedRepresentations[name='arboreo%20Diagram']/@defaultLayer/@nodeMappings[name='Page']/@style"/>
+      </ownedStyle>
+      <actualMapping xmi:type="description_1:NodeMapping" href="platform:/resource/lpdql.arboreo.vp/description/vp.odesign#//@ownedViewpoints[name='arboreo_vp']/@ownedRepresentations[name='arboreo%20Diagram']/@defaultLayer/@nodeMappings[name='Page']"/>
+    </ownedDiagramElements>
+    <ownedDiagramElements xmi:type="diagram:DNode" uid="_XSHhI1MZEemr8pVth8Bo4w" name="settings" outgoingEdges="_XSIvRVMZEemr8pVth8Bo4w" incomingEdges="_XSIvQFMZEemr8pVth8Bo4w" width="3" height="3" resizeKind="NSEW">
+      <target xmi:type="arboreo:Page" href="Site.arboreo#//@pages.1"/>
+      <semanticElements xmi:type="arboreo:Page" href="Site.arboreo#//@pages.1"/>
+      <arrangeConstraints>KEEP_LOCATION</arrangeConstraints>
+      <arrangeConstraints>KEEP_SIZE</arrangeConstraints>
+      <arrangeConstraints>KEEP_RATIO</arrangeConstraints>
+      <ownedStyle xmi:type="diagram:Lozenge" uid="_XSHhJFMZEemr8pVth8Bo4w" labelSize="12" labelAlignment="LEFT" borderColor="114,159,207" color="114,159,207">
+        <description xmi:type="style:LozengeNodeDescription" href="platform:/resource/lpdql.arboreo.vp/description/vp.odesign#//@ownedViewpoints[name='arboreo_vp']/@ownedRepresentations[name='arboreo%20Diagram']/@defaultLayer/@nodeMappings[name='Page']/@style"/>
+      </ownedStyle>
+      <actualMapping xmi:type="description_1:NodeMapping" href="platform:/resource/lpdql.arboreo.vp/description/vp.odesign#//@ownedViewpoints[name='arboreo_vp']/@ownedRepresentations[name='arboreo%20Diagram']/@defaultLayer/@nodeMappings[name='Page']"/>
+    </ownedDiagramElements>
+    <ownedDiagramElements xmi:type="diagram:DNode" uid="_XSIIMVMZEemr8pVth8Bo4w" name="about" outgoingEdges="_XSJWWVMZEemr8pVth8Bo4w" incomingEdges="_XSIvRVMZEemr8pVth8Bo4w" width="3" height="3" resizeKind="NSEW">
+      <target xmi:type="arboreo:Page" href="Site.arboreo#//@pages.2"/>
+      <semanticElements xmi:type="arboreo:Page" href="Site.arboreo#//@pages.2"/>
+      <arrangeConstraints>KEEP_LOCATION</arrangeConstraints>
+      <arrangeConstraints>KEEP_SIZE</arrangeConstraints>
+      <arrangeConstraints>KEEP_RATIO</arrangeConstraints>
+      <ownedStyle xmi:type="diagram:Lozenge" uid="_XSIIMlMZEemr8pVth8Bo4w" labelSize="12" labelAlignment="LEFT" borderColor="114,159,207" color="114,159,207">
+        <description xmi:type="style:LozengeNodeDescription" href="platform:/resource/lpdql.arboreo.vp/description/vp.odesign#//@ownedViewpoints[name='arboreo_vp']/@ownedRepresentations[name='arboreo%20Diagram']/@defaultLayer/@nodeMappings[name='Page']/@style"/>
+      </ownedStyle>
+      <actualMapping xmi:type="description_1:NodeMapping" href="platform:/resource/lpdql.arboreo.vp/description/vp.odesign#//@ownedViewpoints[name='arboreo_vp']/@ownedRepresentations[name='arboreo%20Diagram']/@defaultLayer/@nodeMappings[name='Page']"/>
+    </ownedDiagramElements>
+    <ownedDiagramElements xmi:type="diagram:DNode" uid="_XSIINFMZEemr8pVth8Bo4w" name="ventes" incomingEdges="_XSIvSlMZEemr8pVth8Bo4w" width="3" height="3" resizeKind="NSEW">
+      <target xmi:type="arboreo:Page" href="Site.arboreo#//@pages.3"/>
+      <semanticElements xmi:type="arboreo:Page" href="Site.arboreo#//@pages.3"/>
+      <arrangeConstraints>KEEP_LOCATION</arrangeConstraints>
+      <arrangeConstraints>KEEP_SIZE</arrangeConstraints>
+      <arrangeConstraints>KEEP_RATIO</arrangeConstraints>
+      <ownedStyle xmi:type="diagram:Lozenge" uid="_XSIINVMZEemr8pVth8Bo4w" labelSize="12" labelAlignment="LEFT" borderColor="114,159,207" color="114,159,207">
+        <description xmi:type="style:LozengeNodeDescription" href="platform:/resource/lpdql.arboreo.vp/description/vp.odesign#//@ownedViewpoints[name='arboreo_vp']/@ownedRepresentations[name='arboreo%20Diagram']/@defaultLayer/@nodeMappings[name='Page']/@style"/>
+      </ownedStyle>
+      <actualMapping xmi:type="description_1:NodeMapping" href="platform:/resource/lpdql.arboreo.vp/description/vp.odesign#//@ownedViewpoints[name='arboreo_vp']/@ownedRepresentations[name='arboreo%20Diagram']/@defaultLayer/@nodeMappings[name='Page']"/>
+    </ownedDiagramElements>
+    <ownedDiagramElements xmi:type="diagram:DNode" uid="_XSIIN1MZEemr8pVth8Bo4w" name="login" outgoingEdges="_XSJWVFMZEemr8pVth8Bo4w" incomingEdges="_XSIvVFMZEemr8pVth8Bo4w" width="3" height="3" resizeKind="NSEW">
+      <target xmi:type="arboreo:Page" href="Site.arboreo#//@pages.4"/>
+      <semanticElements xmi:type="arboreo:Page" href="Site.arboreo#//@pages.4"/>
+      <arrangeConstraints>KEEP_LOCATION</arrangeConstraints>
+      <arrangeConstraints>KEEP_SIZE</arrangeConstraints>
+      <arrangeConstraints>KEEP_RATIO</arrangeConstraints>
+      <ownedStyle xmi:type="diagram:Lozenge" uid="_XSIIOFMZEemr8pVth8Bo4w" labelSize="12" labelAlignment="LEFT" borderColor="114,159,207" color="114,159,207">
+        <description xmi:type="style:LozengeNodeDescription" href="platform:/resource/lpdql.arboreo.vp/description/vp.odesign#//@ownedViewpoints[name='arboreo_vp']/@ownedRepresentations[name='arboreo%20Diagram']/@defaultLayer/@nodeMappings[name='Page']/@style"/>
+      </ownedStyle>
+      <actualMapping xmi:type="description_1:NodeMapping" href="platform:/resource/lpdql.arboreo.vp/description/vp.odesign#//@ownedViewpoints[name='arboreo_vp']/@ownedRepresentations[name='arboreo%20Diagram']/@defaultLayer/@nodeMappings[name='Page']"/>
+    </ownedDiagramElements>
+    <ownedDiagramElements xmi:type="diagram:DNode" uid="_XSIIOlMZEemr8pVth8Bo4w" name="register" incomingEdges="_XSJWVFMZEemr8pVth8Bo4w" width="3" height="3" resizeKind="NSEW">
+      <target xmi:type="arboreo:Page" href="Site.arboreo#//@pages.5"/>
+      <semanticElements xmi:type="arboreo:Page" href="Site.arboreo#//@pages.5"/>
+      <arrangeConstraints>KEEP_LOCATION</arrangeConstraints>
+      <arrangeConstraints>KEEP_SIZE</arrangeConstraints>
+      <arrangeConstraints>KEEP_RATIO</arrangeConstraints>
+      <ownedStyle xmi:type="diagram:Lozenge" uid="_XSIIO1MZEemr8pVth8Bo4w" labelSize="12" labelAlignment="LEFT" borderColor="114,159,207" color="114,159,207">
+        <description xmi:type="style:LozengeNodeDescription" href="platform:/resource/lpdql.arboreo.vp/description/vp.odesign#//@ownedViewpoints[name='arboreo_vp']/@ownedRepresentations[name='arboreo%20Diagram']/@defaultLayer/@nodeMappings[name='Page']/@style"/>
+      </ownedStyle>
+      <actualMapping xmi:type="description_1:NodeMapping" href="platform:/resource/lpdql.arboreo.vp/description/vp.odesign#//@ownedViewpoints[name='arboreo_vp']/@ownedRepresentations[name='arboreo%20Diagram']/@defaultLayer/@nodeMappings[name='Page']"/>
+    </ownedDiagramElements>
+    <ownedDiagramElements xmi:type="diagram:DNode" uid="_XSIIPVMZEemr8pVth8Bo4w" name="paul" incomingEdges="_XSJWWVMZEemr8pVth8Bo4w" width="3" height="3" resizeKind="NSEW">
+      <target xmi:type="arboreo:Page" href="Site.arboreo#//@pages.6"/>
+      <semanticElements xmi:type="arboreo:Page" href="Site.arboreo#//@pages.6"/>
+      <arrangeConstraints>KEEP_LOCATION</arrangeConstraints>
+      <arrangeConstraints>KEEP_SIZE</arrangeConstraints>
+      <arrangeConstraints>KEEP_RATIO</arrangeConstraints>
+      <ownedStyle xmi:type="diagram:Lozenge" uid="_XSIIPlMZEemr8pVth8Bo4w" labelSize="12" labelAlignment="LEFT" borderColor="114,159,207" color="114,159,207">
+        <description xmi:type="style:LozengeNodeDescription" href="platform:/resource/lpdql.arboreo.vp/description/vp.odesign#//@ownedViewpoints[name='arboreo_vp']/@ownedRepresentations[name='arboreo%20Diagram']/@defaultLayer/@nodeMappings[name='Page']/@style"/>
+      </ownedStyle>
+      <actualMapping xmi:type="description_1:NodeMapping" href="platform:/resource/lpdql.arboreo.vp/description/vp.odesign#//@ownedViewpoints[name='arboreo_vp']/@ownedRepresentations[name='arboreo%20Diagram']/@defaultLayer/@nodeMappings[name='Page']"/>
+    </ownedDiagramElements>
+    <ownedDiagramElements xmi:type="diagram:DNode" uid="_jcoygFVkEemORpJyenG0VQ" name="Page 9" incomingEdges="_kbxFnFVqEemORpJyenG0VQ" width="3" height="3" resizeKind="NSEW">
+      <target xmi:type="arboreo:Page" href="Site.arboreo#//@pages.7"/>
+      <semanticElements xmi:type="arboreo:Page" href="Site.arboreo#//@pages.7"/>
+      <arrangeConstraints>KEEP_LOCATION</arrangeConstraints>
+      <arrangeConstraints>KEEP_SIZE</arrangeConstraints>
+      <arrangeConstraints>KEEP_RATIO</arrangeConstraints>
+      <ownedStyle xmi:type="diagram:Lozenge" uid="_jcoygVVkEemORpJyenG0VQ" labelSize="12" labelAlignment="LEFT" borderColor="114,159,207" color="114,159,207">
+        <description xmi:type="style:LozengeNodeDescription" href="platform:/resource/lpdql.arboreo.vp/description/vp.odesign#//@ownedViewpoints[name='arboreo_vp']/@ownedRepresentations[name='arboreo%20Diagram']/@defaultLayer/@nodeMappings[name='Page']/@style"/>
+      </ownedStyle>
+      <actualMapping xmi:type="description_1:NodeMapping" href="platform:/resource/lpdql.arboreo.vp/description/vp.odesign#//@ownedViewpoints[name='arboreo_vp']/@ownedRepresentations[name='arboreo%20Diagram']/@defaultLayer/@nodeMappings[name='Page']"/>
+    </ownedDiagramElements>
+    <ownedDiagramElements xmi:type="diagram:DNode" uid="_uTyI8FVpEemORpJyenG0VQ" name="Page 9" outgoingEdges="_kbxFnFVqEemORpJyenG0VQ" width="3" height="3" resizeKind="NSEW">
+      <target xmi:type="arboreo:Page" href="Site.arboreo#//@pages.8"/>
+      <semanticElements xmi:type="arboreo:Page" href="Site.arboreo#//@pages.8"/>
+      <arrangeConstraints>KEEP_LOCATION</arrangeConstraints>
+      <arrangeConstraints>KEEP_SIZE</arrangeConstraints>
+      <arrangeConstraints>KEEP_RATIO</arrangeConstraints>
+      <ownedStyle xmi:type="diagram:Lozenge" uid="_uTyI8VVpEemORpJyenG0VQ" labelSize="12" labelAlignment="LEFT" borderColor="114,159,207" color="114,159,207">
+        <description xmi:type="style:LozengeNodeDescription" href="platform:/resource/lpdql.arboreo.vp/description/vp.odesign#//@ownedViewpoints[name='arboreo_vp']/@ownedRepresentations[name='arboreo%20Diagram']/@defaultLayer/@nodeMappings[name='Page']/@style"/>
+      </ownedStyle>
+      <actualMapping xmi:type="description_1:NodeMapping" href="platform:/resource/lpdql.arboreo.vp/description/vp.odesign#//@ownedViewpoints[name='arboreo_vp']/@ownedRepresentations[name='arboreo%20Diagram']/@defaultLayer/@nodeMappings[name='Page']"/>
+    </ownedDiagramElements>
+    <ownedDiagramElements xmi:type="diagram:DEdge" uid="_XSIvQFMZEemr8pVth8Bo4w" sourceNode="_XSHhIFMZEemr8pVth8Bo4w" targetNode="_XSHhI1MZEemr8pVth8Bo4w">
+      <target xmi:type="arboreo:Lien" href="Site.arboreo#//@liens.0"/>
+      <semanticElements xmi:type="arboreo:Lien" href="Site.arboreo#//@liens.0"/>
+      <ownedStyle xmi:type="diagram:EdgeStyle" uid="_XSIvQVMZEemr8pVth8Bo4w" size="2">
+        <description xmi:type="style:EdgeStyleDescription" href="platform:/resource/lpdql.arboreo.vp/description/vp.odesign#//@ownedViewpoints[name='arboreo_vp']/@ownedRepresentations[name='arboreo%20Diagram']/@defaultLayer/@edgeMappings[name='Lien']/@style"/>
+        <centerLabelStyle xmi:type="diagram:CenterLabelStyle" uid="_XSIvQlMZEemr8pVth8Bo4w" labelSize="12"/>
+      </ownedStyle>
+      <actualMapping xmi:type="description_1:EdgeMapping" href="platform:/resource/lpdql.arboreo.vp/description/vp.odesign#//@ownedViewpoints[name='arboreo_vp']/@ownedRepresentations[name='arboreo%20Diagram']/@defaultLayer/@edgeMappings[name='Lien']"/>
+    </ownedDiagramElements>
+    <ownedDiagramElements xmi:type="diagram:DEdge" uid="_XSIvRVMZEemr8pVth8Bo4w" sourceNode="_XSHhI1MZEemr8pVth8Bo4w" targetNode="_XSIIMVMZEemr8pVth8Bo4w">
+      <target xmi:type="arboreo:Lien" href="Site.arboreo#//@liens.1"/>
+      <semanticElements xmi:type="arboreo:Lien" href="Site.arboreo#//@liens.1"/>
+      <ownedStyle xmi:type="diagram:EdgeStyle" uid="_XSIvRlMZEemr8pVth8Bo4w" size="2">
+        <description xmi:type="style:EdgeStyleDescription" href="platform:/resource/lpdql.arboreo.vp/description/vp.odesign#//@ownedViewpoints[name='arboreo_vp']/@ownedRepresentations[name='arboreo%20Diagram']/@defaultLayer/@edgeMappings[name='Lien']/@style"/>
+        <centerLabelStyle xmi:type="diagram:CenterLabelStyle" uid="_XSIvR1MZEemr8pVth8Bo4w" labelSize="12"/>
+      </ownedStyle>
+      <actualMapping xmi:type="description_1:EdgeMapping" href="platform:/resource/lpdql.arboreo.vp/description/vp.odesign#//@ownedViewpoints[name='arboreo_vp']/@ownedRepresentations[name='arboreo%20Diagram']/@defaultLayer/@edgeMappings[name='Lien']"/>
+    </ownedDiagramElements>
+    <ownedDiagramElements xmi:type="diagram:DEdge" uid="_XSIvSlMZEemr8pVth8Bo4w" sourceNode="_XSHhIFMZEemr8pVth8Bo4w" targetNode="_XSIINFMZEemr8pVth8Bo4w">
+      <target xmi:type="arboreo:Lien" href="Site.arboreo#//@liens.2"/>
+      <semanticElements xmi:type="arboreo:Lien" href="Site.arboreo#//@liens.2"/>
+      <ownedStyle xmi:type="diagram:EdgeStyle" uid="_XSIvS1MZEemr8pVth8Bo4w" size="2">
+        <description xmi:type="style:EdgeStyleDescription" href="platform:/resource/lpdql.arboreo.vp/description/vp.odesign#//@ownedViewpoints[name='arboreo_vp']/@ownedRepresentations[name='arboreo%20Diagram']/@defaultLayer/@edgeMappings[name='Lien']/@style"/>
+        <centerLabelStyle xmi:type="diagram:CenterLabelStyle" uid="_XSIvTFMZEemr8pVth8Bo4w" labelSize="12"/>
+      </ownedStyle>
+      <actualMapping xmi:type="description_1:EdgeMapping" href="platform:/resource/lpdql.arboreo.vp/description/vp.odesign#//@ownedViewpoints[name='arboreo_vp']/@ownedRepresentations[name='arboreo%20Diagram']/@defaultLayer/@edgeMappings[name='Lien']"/>
+    </ownedDiagramElements>
+    <ownedDiagramElements xmi:type="diagram:DEdge" uid="_XSIvT1MZEemr8pVth8Bo4w" sourceNode="_XSHhIFMZEemr8pVth8Bo4w" targetNode="_XSHhIFMZEemr8pVth8Bo4w">
+      <target xmi:type="arboreo:Lien" href="Site.arboreo#//@liens.3"/>
+      <semanticElements xmi:type="arboreo:Lien" href="Site.arboreo#//@liens.3"/>
+      <ownedStyle xmi:type="diagram:EdgeStyle" uid="_XSIvUFMZEemr8pVth8Bo4w" size="2">
+        <description xmi:type="style:EdgeStyleDescription" href="platform:/resource/lpdql.arboreo.vp/description/vp.odesign#//@ownedViewpoints[name='arboreo_vp']/@ownedRepresentations[name='arboreo%20Diagram']/@defaultLayer/@edgeMappings[name='Lien']/@style"/>
+        <centerLabelStyle xmi:type="diagram:CenterLabelStyle" uid="_XSIvUVMZEemr8pVth8Bo4w" labelSize="12"/>
+      </ownedStyle>
+      <actualMapping xmi:type="description_1:EdgeMapping" href="platform:/resource/lpdql.arboreo.vp/description/vp.odesign#//@ownedViewpoints[name='arboreo_vp']/@ownedRepresentations[name='arboreo%20Diagram']/@defaultLayer/@edgeMappings[name='Lien']"/>
+    </ownedDiagramElements>
+    <ownedDiagramElements xmi:type="diagram:DEdge" uid="_XSIvVFMZEemr8pVth8Bo4w" sourceNode="_XSHhIFMZEemr8pVth8Bo4w" targetNode="_XSIIN1MZEemr8pVth8Bo4w">
+      <target xmi:type="arboreo:Lien" href="Site.arboreo#//@liens.4"/>
+      <semanticElements xmi:type="arboreo:Lien" href="Site.arboreo#//@liens.4"/>
+      <ownedStyle xmi:type="diagram:EdgeStyle" uid="_XSJWUFMZEemr8pVth8Bo4w" size="2">
+        <description xmi:type="style:EdgeStyleDescription" href="platform:/resource/lpdql.arboreo.vp/description/vp.odesign#//@ownedViewpoints[name='arboreo_vp']/@ownedRepresentations[name='arboreo%20Diagram']/@defaultLayer/@edgeMappings[name='Lien']/@style"/>
+        <centerLabelStyle xmi:type="diagram:CenterLabelStyle" uid="_XSJWUVMZEemr8pVth8Bo4w" labelSize="12"/>
+      </ownedStyle>
+      <actualMapping xmi:type="description_1:EdgeMapping" href="platform:/resource/lpdql.arboreo.vp/description/vp.odesign#//@ownedViewpoints[name='arboreo_vp']/@ownedRepresentations[name='arboreo%20Diagram']/@defaultLayer/@edgeMappings[name='Lien']"/>
+    </ownedDiagramElements>
+    <ownedDiagramElements xmi:type="diagram:DEdge" uid="_XSJWVFMZEemr8pVth8Bo4w" sourceNode="_XSIIN1MZEemr8pVth8Bo4w" targetNode="_XSIIOlMZEemr8pVth8Bo4w">
+      <target xmi:type="arboreo:Lien" href="Site.arboreo#//@liens.5"/>
+      <semanticElements xmi:type="arboreo:Lien" href="Site.arboreo#//@liens.5"/>
+      <ownedStyle xmi:type="diagram:EdgeStyle" uid="_XSJWVVMZEemr8pVth8Bo4w" size="2">
+        <description xmi:type="style:EdgeStyleDescription" href="platform:/resource/lpdql.arboreo.vp/description/vp.odesign#//@ownedViewpoints[name='arboreo_vp']/@ownedRepresentations[name='arboreo%20Diagram']/@defaultLayer/@edgeMappings[name='Lien']/@style"/>
+        <centerLabelStyle xmi:type="diagram:CenterLabelStyle" uid="_XSJWVlMZEemr8pVth8Bo4w" labelSize="12"/>
+      </ownedStyle>
+      <actualMapping xmi:type="description_1:EdgeMapping" href="platform:/resource/lpdql.arboreo.vp/description/vp.odesign#//@ownedViewpoints[name='arboreo_vp']/@ownedRepresentations[name='arboreo%20Diagram']/@defaultLayer/@edgeMappings[name='Lien']"/>
+    </ownedDiagramElements>
+    <ownedDiagramElements xmi:type="diagram:DEdge" uid="_XSJWWVMZEemr8pVth8Bo4w" sourceNode="_XSIIMVMZEemr8pVth8Bo4w" targetNode="_XSIIPVMZEemr8pVth8Bo4w">
+      <target xmi:type="arboreo:Lien" href="Site.arboreo#//@liens.6"/>
+      <semanticElements xmi:type="arboreo:Lien" href="Site.arboreo#//@liens.6"/>
+      <ownedStyle xmi:type="diagram:EdgeStyle" uid="_XSJWWlMZEemr8pVth8Bo4w" size="2">
+        <description xmi:type="style:EdgeStyleDescription" href="platform:/resource/lpdql.arboreo.vp/description/vp.odesign#//@ownedViewpoints[name='arboreo_vp']/@ownedRepresentations[name='arboreo%20Diagram']/@defaultLayer/@edgeMappings[name='Lien']/@style"/>
+        <centerLabelStyle xmi:type="diagram:CenterLabelStyle" uid="_XSJWW1MZEemr8pVth8Bo4w" labelSize="12"/>
+      </ownedStyle>
+      <actualMapping xmi:type="description_1:EdgeMapping" href="platform:/resource/lpdql.arboreo.vp/description/vp.odesign#//@ownedViewpoints[name='arboreo_vp']/@ownedRepresentations[name='arboreo%20Diagram']/@defaultLayer/@edgeMappings[name='Lien']"/>
+    </ownedDiagramElements>
+    <ownedDiagramElements xmi:type="diagram:DEdge" uid="_kbxFnFVqEemORpJyenG0VQ" sourceNode="_uTyI8FVpEemORpJyenG0VQ" targetNode="_jcoygFVkEemORpJyenG0VQ">
+      <target xmi:type="arboreo:Lien" href="Site.arboreo#//@liens.27"/>
+      <semanticElements xmi:type="arboreo:Lien" href="Site.arboreo#//@liens.27"/>
+      <ownedStyle xmi:type="diagram:EdgeStyle" uid="_kbxFnVVqEemORpJyenG0VQ" size="2">
+        <description xmi:type="style:EdgeStyleDescription" href="platform:/resource/lpdql.arboreo.vp/description/vp.odesign#//@ownedViewpoints[name='arboreo_vp']/@ownedRepresentations[name='arboreo%20Diagram']/@defaultLayer/@edgeMappings[name='Lien']/@style"/>
+        <centerLabelStyle xmi:type="diagram:CenterLabelStyle" uid="_kbxFnlVqEemORpJyenG0VQ" labelSize="12"/>
+      </ownedStyle>
+      <actualMapping xmi:type="description_1:EdgeMapping" href="platform:/resource/lpdql.arboreo.vp/description/vp.odesign#//@ownedViewpoints[name='arboreo_vp']/@ownedRepresentations[name='arboreo%20Diagram']/@defaultLayer/@edgeMappings[name='Lien']"/>
+    </ownedDiagramElements>
+    <description xmi:type="description_1:DiagramDescription" href="platform:/resource/lpdql.arboreo.vp/description/vp.odesign#//@ownedViewpoints[name='arboreo_vp']/@ownedRepresentations[name='arboreo%20Diagram']"/>
+    <filterVariableHistory xmi:type="diagram:FilterVariableHistory" uid="_XSGTAFMZEemr8pVth8Bo4w"/>
+    <activatedLayers xmi:type="description_1:Layer" href="platform:/resource/lpdql.arboreo.vp/description/vp.odesign#//@ownedViewpoints[name='arboreo_vp']/@ownedRepresentations[name='arboreo%20Diagram']/@defaultLayer"/>
+    <target xmi:type="arboreo:Site" href="Site.arboreo#/"/>
+  </diagram:DSemanticDiagram>
+</xmi:XMI>

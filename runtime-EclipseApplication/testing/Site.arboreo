@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<arboreo:Site xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:arboreo="http://www.example.org/arboreo" name="test" accueil="//@pages.0">
+  <pages name="home"/>
+  <pages name="settings"/>
+  <pages name="about"/>
+  <pages name="ventes"/>
+  <pages name="login"/>
+  <pages name="register"/>
+  <pages name="paul"/>
+  <pages name="jean"/>
+  <liens name="homeToSettings" page_origine="//@pages.0" page_destination="//@pages.1"/>
+  <liens name="settingsToAbout" page_origine="//@pages.1" page_destination="//@pages.2"/>
+  <liens name="homeToVentes" page_origine="//@pages.0" page_destination="//@pages.3"/>
+  <liens name="homeToHome" page_origine="//@pages.0" page_destination="//@pages.0"/>
+  <liens name="homeToLogin" page_origine="//@pages.0" page_destination="//@pages.4"/>
+  <liens name="loginToRegister" page_origine="//@pages.4" page_destination="//@pages.5"/>
+  <liens name="aboutToPaul" page_origine="//@pages.2" page_destination="//@pages.6"/>
+  <liens name="aboutToJean" page_origine="//@pages.2" page_destination="//@pages.7"/>
+</arboreo:Site>

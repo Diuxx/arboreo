@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ecore:EPackage xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:ecore="http://www.eclipse.org/emf/2002/Ecore" name="arboreo" nsURI="http://www.example.org/arboreo" nsPrefix="arboreo">
+  <eClassifiers xsi:type="ecore:EClass" name="Lien" eSuperTypes="#//NamedElement">
+    <eStructuralFeatures xsi:type="ecore:EReference" name="page_origine" eType="#//Page"/>
+    <eStructuralFeatures xsi:type="ecore:EReference" name="page_destination" eType="#//Page"/>
+  </eClassifiers>
+  <eClassifiers xsi:type="ecore:EClass" name="Page" eSuperTypes="#//NamedElement"/>
+  <eClassifiers xsi:type="ecore:EClass" name="NamedElement" abstract="true" interface="true">
+    <eStructuralFeatures xsi:type="ecore:EAttribute" name="name" eType="ecore:EDataType http://www.eclipse.org/emf/2002/Ecore#//EString"/>
+  </eClassifiers>
+  <eClassifiers xsi:type="ecore:EClass" name="Site" eSuperTypes="#//NamedElement">
+    <eStructuralFeatures xsi:type="ecore:EReference" name="pages" lowerBound="1" upperBound="-1"
+        eType="#//Page" containment="true"/>
+    <eStructuralFeatures xsi:type="ecore:EReference" name="liens" upperBound="-1"
+        eType="#//Lien" containment="true"/>
+    <eStructuralFeatures xsi:type="ecore:EReference" name="accueil" eType="#//Page"/>
+  </eClassifiers>
+</ecore:EPackage>
